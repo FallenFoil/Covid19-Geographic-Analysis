@@ -1,0 +1,29 @@
+pais: 
+graficos:
+  - temporal
+  - Barras
+  - Caixinhas do mundo inteiro
+  - Pequena tabela com os dados todos (eg. por continente)
+dados:
+  - https://www.kaggle.com/c/covid19-global-forecasting-week-4/data
+  - https://github.com/jgrocha/covid-pt
+  - https://github.com/CSSEGISandData/COVID-19
+ideias:
+  - comparar a idade media de cada pais com o numero de mortes
+  - transmission rate é influenciada pela meteorologia
+links:
+  - https://github.com/kztakemoto/covid19climate
+  - https://www.kaggle.com/anshuls235/covid19-explained-through-visualizations#Feature-Engineering
+  - https://www.ipma.pt/pt/oclima/monitoriza.dia/
+
+ToDo:
+  - Gafico de caixas do numero de infetados e fatalidades no mundo atual
+  - Grafico temporal do numero de infetados e fatalidades no mundo até agora
+  - Grafico de barras com 2 barras (idade media, mortes) por coluna do mundo
+
+Done:
+  - Imagem do mundo com cores diferentes
+  - Tabela com os dados sumandos por continente atual
+  - Grafico de barras com os dados sumados por continente
+  - Grafico de barras para comparar os infetados, mortos e nao infetados para Portugal
+  
